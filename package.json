@@ -1,0 +1,19 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000-\u0000C\u0000L\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamlindsay97/Node-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamlindsay97/Node-CLI/issues"
+  },
+  "homepage": "https://github.com/jamlindsay97/Node-CLI#readme"
+}
